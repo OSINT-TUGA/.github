@@ -13,7 +13,7 @@ Este conjunto de repositórios tenta mitigar essa dificuldade centralizando info
 Se tem conhecimentos em OSINT, cibersegurança ou desenvolvimento de software e gostaria de contribuir, por favor, submeta pull requests ou abra issues com as suas sugestões ou recursos que gostaria de ver adicionados.
 
 ### Disclaimer
-O conteúdo aqui desenvolvido destina-se exclusivamente a investigadores na área da segurança da informação e outros profissionais do lado ético da segurança. Declinamos qualquer responsabilidade pelo uso indevido do código e das listas aqui partilhadas. O uso deste conteúdo é da exclusiva responsabilidade do utilizador. Recomendamos vivamente a utilização deste material apenas em ambientes controlados e com permissão explícita para testes de segurança. A utilização indevida pode violar leis e regulamentos locais, pelos quais os autores deste repositório não podem ser responsabilizados.
+O conteúdo aqui desenvolvido destina-se exclusivamente a investigadores na área da segurança da informação e outros profissionais do lado ético da segurança. Declinamos qualquer responsabilidade pelo uso indevido do código e dos conjuntos de dados aqui partilhados. O uso deste conteúdo é da exclusiva responsabilidade do utilizador. Recomendamos vivamente a utilização deste material apenas em ambientes controlados e com permissão explícita para testes de segurança. A utilização indevida pode violar leis e regulamentos locais, pelos quais os autores deste repositório não podem ser responsabilizados.
 
 ---
 
@@ -32,4 +32,4 @@ This set of repositories attempts to mitigate this difficulty by centralizing re
 If you have knowledge in OSINT, cybersecurity, or software development and would like to contribute, please submit pull requests or open issues with your suggestions or resources you would like to see added.
 
 ### Disclaimer
-The content developed here is intended exclusively for researchers in the field of information security and other professionals on the ethical side of security. We disclaim any responsibility for the misuse of the code and lists shared here. The use of this content is the sole responsibility of the user. We strongly recommend using this material only in controlled environments and with explicit permission for security testing. Misuse may violate local laws and regulations, for which the authors of this repository cannot be held liable.
+The content developed here is intended exclusively for researchers in the field of information security and other professionals on the ethical side of security. We disclaim any responsibility for the misuse of the code and datasets shared here. The use of this content is the sole responsibility of the user. We strongly recommend using this material only in controlled environments and with explicit permission for security testing. Misuse may violate local laws and regulations, for which the authors of this repository cannot be held liable.
